@@ -1,2 +1,2 @@
 # PyPomo
-This is my attempt to program a pomodoro timer in python3.
+This is my take on a pomodoro timer in python3. This small program creates a sqlite database file which holds information about the project you are working on and the number of learning cylces you have already completed. This python script has a small GUI where you can enter the duration of your active and passive learning periods. The script has been written on a Linux OS but should be working, perhaps after some minor modifications, on Windows and macOS as well.
